@@ -4,7 +4,8 @@
 
 ## HTML 是什麼?
 
-html 代表 asdfasdf asdf asdfasdfasdf asdf asdf asdfasdf
+html 代表 **hyper text markup language**
+
 asdfasdfasdf asdfasdf
 asdfasdfasdf asdfasdf
 asdfasdf
