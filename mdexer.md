@@ -6,5 +6,5 @@
 
 ---
 
-* [我的學號與名稱](https://github.com/devinliang/gitest/)
+* [1107211011](https://github.com/yuezhen0307/gitest/blob/master/README.md)
 * 
