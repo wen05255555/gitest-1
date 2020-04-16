@@ -19,3 +19,4 @@
 * [1107211001 謝瑾昀](https://github.com/jinyun4101220xie/gittry)
 * [1107211040 鄭妍汝](https://github.com/ruby-1234/markdown)
 * [1107211045 唐冠雯](https://github.com/o3o951235/markdown)
+* [1107211072 陳冠智](https://github.com/Koko335577/1107211072/blob/master/README.md)
