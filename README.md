@@ -2,8 +2,8 @@
 
 ## 個人造業個人擔
 
-貞子造業  
-## 甄子丹
+# 貞子造業  
+# 甄子丹
 
 一個 html 的頁面範例：
 
@@ -27,31 +27,10 @@
 + 這也沒有
 * 這個有
 	- 老師你好
-    
-1. asdfasdf
-1. asdfasdf
-1. sadfasdf
-3. asdfasdf
-5. asdfasdf
-    * asdfasdf
-    * asdfasdf
-    * asdfasdf
 
-以下是引用文字:
-> asdf asdfasdfasdfasdf
-> asdfasdfasdfasdfasdf
-> asdfasdf asdfasdf asdf
->> asdfasdf
->> asdfasdf
 
-asdfasdfaszdf asdfasdf
-asdfasdfasdf
 
-## CSS 是什麼?
-For my class test
-老師你好 我覺得這個好難
-
-| 班級   |     學號   | 姓名    |
-|--------|------------|--------|
-| UD2A   | 1108211001 | MMM    |
-| UD2A   | 1108211002 | NNN    |
+| LOL    |      上路   | 中路   |
+|--------|-------------|--------|
+| 雷尼克頓|      是     | 否    |
+| 卡特    |      否     | 是    |
