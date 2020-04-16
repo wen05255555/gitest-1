@@ -1,8 +1,8 @@
-# 介紹 HTML 與 CSS
+# 講笑話
 
-## HTML 是什麼?
+## 個人造業個人擔
 
-html 代表 **hyper text markup language**
+# 貞子造業  甄子丹
 
 一個 html 的頁面範例：
 
@@ -12,45 +12,27 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>新文件</title>
+        <title>哈哈你好</title>
     </head>
     <body>
     <h1>Hello World</h1>
     </body>
     </html>
 
-asdfasdfasdf asdfasdf
-asdfasdfasdf asdfasdf
-asdfasdf
+[聽些音樂吧老師](https://www.youtube.com/watch?v=I8Di_xLoDz0)
 
-* asdfasdf
-* asdf
-* asdfasdf
 
-1. asdfasdf
-1. asdfasdf
-1. sadfasdf
-3. asdfasdf
-5. asdfasdf
-    * asdfasdf
-    * asdfasdf
-    * asdfasdf
+- 這沒東西
++ 這也沒有
+* 這個有
+	- 老師你好
 
-以下是引用文字:
-> asdf asdfasdfasdfasdf
-> asdfasdfasdfasdfasdf
-> asdfasdf asdfasdf asdf
->> asdfasdf
->> asdfasdf
 
-asdfasdfaszdf asdfasdf
-asdfasdfasdf
 
-## CSS 是什麼?
-For my class test
-老師你好 我覺得這個好難
+| LOL    |      上路   | 中路   |
+|--------|-------------|--------|
+| 雷尼克頓|      是     | 否    |
+| 卡特    |      否     | 是    |
 
-| 班級   |     學號   | 姓名    |
-|--------|------------|--------|
-| UD2A   | 1108211001 | MMM    |
-| UD2A   | 1108211002 | NNN    |
+
+![卡特](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg)
