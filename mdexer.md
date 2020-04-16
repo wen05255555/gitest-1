@@ -7,4 +7,4 @@
 ---
 
 * [我的學號與名稱](https://github.com/devinliang/gitest/)
-* [1107211005] (https://github.com/sterben3660/gitest/blob/master/README.md)
+* [1107211005](https://github.com/sterben3660/gitest/blob/master/README.md)
